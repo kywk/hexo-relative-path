@@ -1,0 +1,40 @@
+{
+  "name": "hexo-relative-path",
+  "version": "0.0.1",
+  "description": "Relative path rewriter plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kywk/hexo-relative-path.git"
+  },
+  "keywords": [
+    "website",
+    "blog",
+    "cms",
+    "framework",
+    "hexo"
+  ],
+  "author": {
+    "name": "Moo Cow (kywk)",
+    "email": "kywk.id@gmail.com",
+    "url": "http://kywk.github.io/moco"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/kywk/hexo-relative-path/master/LICENSE"
+  },
+  "engines": {
+    "hexo": "*"
+  },
+  "dependencies": {
+    "glob": "*",
+    "async": "*"
+  },
+  "readme": "This Hexo plugin replaces the local links with relative path.\nIt's easier publishing to any web host via uploads all files.",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/kywk/hexo-relative-path/issues"
+  },
+  "_id": "hexo-relative-path@0.0.1",
+  "_from": "hexo-relative-path@"
+}
